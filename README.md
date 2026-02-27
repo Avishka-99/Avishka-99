@@ -30,7 +30,7 @@ I enjoy designing systems that are maintainable, scalable, and production-ready.
 University of Colombo School of Computing – 2024  
 
 🎓 **Master of Computer Science (Reading)**  
-University of Colombo School of Computing – 2024  
+University of Colombo School of Computing – 2026
 
 📚 Relevant Focus Areas:
 - Software Engineering  
